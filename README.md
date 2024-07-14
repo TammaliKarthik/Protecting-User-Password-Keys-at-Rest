@@ -110,8 +110,3 @@ python src/main.py decrypt <file_path>
 This project is licensed under the MIT License - see the LICENSE file for details.
 ```
 
-### Final Steps
-- Ensure all documentation is clear and concise.
-- Verify that all links and references within the documentation work correctly.
-- Test your code thoroughly to ensure it works as expected.
-- Push the final version to GitHub and check the repository's presentation.
